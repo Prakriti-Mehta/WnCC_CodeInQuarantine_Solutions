@@ -1,5 +1,6 @@
 # WnCC_CodeInQuarantine_Solutions
-The solutions for the WnCC CodeInQuarantine Repository can be found here.
+The solutions for the [WnCC CodeInQuarantine Repository](https://github.com/wncc/CodeInQuarantine)
+ can be found here.
 
 Here's the list of topics being covered:
 
